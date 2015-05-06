@@ -24,6 +24,6 @@ REMOVE
 
 TODO
 ====
-Look into adding LiveReload on watch tasks
+Have bower_concat libraries minified with source
 
-https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei
+Look into adding LiveReload on watch tasks https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei
