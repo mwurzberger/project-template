@@ -27,3 +27,9 @@ TODO
 Have bower_concat libraries minified with source
 
 Look into adding LiveReload on watch tasks https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei
+
+Example of custom task
+
+https://github.com/ivanoats/modular-boilerplate
+
+Remove bootstrap/Comment out bootstrap
